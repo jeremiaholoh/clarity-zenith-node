@@ -4,6 +4,10 @@ authors = []
 description = ""
 telemetry = false
 requirements = []
+[contracts.zenith-discovery]
+path = "contracts/zenith-discovery.clar"
+depends_on = []
+
 [contracts.zenith-node]
 path = "contracts/zenith-node.clar"
 depends_on = []
